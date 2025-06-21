@@ -137,6 +137,7 @@ nav h1 span {
   }
 .center-nav a{
   border-bottom: 2px solid black;
+  background: white;
 }
   .end-nav-btn {
     display: none;
